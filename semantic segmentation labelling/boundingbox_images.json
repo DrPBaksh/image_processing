@@ -1,0 +1,37 @@
+{
+    "multiclass_classification\\test_image_0.png": {
+        "category": "Dog",
+        "start_x": 267,
+        "start_y": 99,
+        "end_x": 789,
+        "end_y": 724
+    },
+    "multiclass_classification\\test_image_1.png": {
+        "category": "Cat",
+        "start_x": 47,
+        "start_y": 19,
+        "end_x": 297,
+        "end_y": 437
+    },
+    "multiclass_classification\\test_image_2.png": {
+        "category": "Hamster",
+        "start_x": 229,
+        "start_y": 13,
+        "end_x": 836,
+        "end_y": 521
+    },
+    "multiclass_classification\\test_image_3.png": {
+        "category": "Dog",
+        "start_x": 318,
+        "start_y": 21,
+        "end_x": 896,
+        "end_y": 724
+    },
+    "multiclass_classification\\test_image_4.png": {
+        "category": "Dog",
+        "start_x": 73,
+        "start_y": 95,
+        "end_x": 732,
+        "end_y": 567
+    }
+}

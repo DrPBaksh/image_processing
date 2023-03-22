@@ -1,0 +1,22 @@
+{
+    "multiclass_classification\\test_image_0.png": {
+        "category": "Dog",
+        "mask": "masks\\test_image_0_mask.png"
+    },
+    "multiclass_classification\\test_image_1.png": {
+        "category": "Cat",
+        "mask": "masks\\test_image_1_mask.png"
+    },
+    "multiclass_classification\\test_image_2.png": {
+        "category": "Hamster",
+        "mask": "masks\\test_image_2_mask.png"
+    },
+    "multiclass_classification\\test_image_3.png": {
+        "category": "Dog",
+        "mask": "masks\\test_image_3_mask.png"
+    },
+    "multiclass_classification\\test_image_4.png": {
+        "category": "Dog",
+        "mask": "masks\\test_image_4_mask.png"
+    }
+}
